@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          screw React lol, play roblox instead haha
+          I love React lol, don't play roblox instead haha
         </a>
       </header>
     </div>
